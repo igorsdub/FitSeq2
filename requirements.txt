@@ -1,8 +1,7 @@
-notebook==7.1.2
-ipykernel==6.29.4
-numpy==1.26.4
-pandas==2.2.1
-tqdm==4.66.2
-multiprocess==0.70.16
-scipy==1.13.0
-
+notebook
+ipykernel
+numpy
+pandas
+tqdm
+multiprocess
+scipy
